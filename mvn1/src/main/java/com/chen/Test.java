@@ -21,6 +21,7 @@ public class Test {
         System.out.println("第5push");
         System.out.println("第6push");
         System.out.println("第pull");
+        System.out.println("第2pull");
 
     }
 }
